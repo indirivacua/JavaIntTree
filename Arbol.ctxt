@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Arbol
+comment1.params=
+comment1.target=Arbol()
+comment2.params=
+comment2.target=boolean\ empty()
+comment3.params=dato
+comment3.target=void\ insertar(java.lang.Object)
+comment4.params=
+comment4.target=void\ informarCreciente()
+numComments=5
